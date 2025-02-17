@@ -8,8 +8,8 @@
 ---
 
 ## 🌍 À propos de moi | About Me :
-- 💻 Je code principalement en **HTML, CSS et JavaScript**  
-- 💻 I mainly code in **HTML, CSS, and JavaScript**  
+- 💻 Je code principalement en **HTML, CSS, JavaScript et Python**  
+- 💻 I mainly code in **HTML, CSS, JavaScript, and Python**  
 - 🎨 J'aime créer des interfaces attrayantes et fonctionnelles  
 - 🎨 I love creating attractive and functional interfaces  
 - 📚 Toujours en quête d'amélioration et de nouveaux défis  
@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="Python"/>
 </p>
 
 ---
@@ -32,6 +33,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetsimX81B&layout=compact&theme=tokyonight" alt="Langages les plus utilisés"/>
 </p>
+
 
 ---
 
