@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RetsimX81B&show_icons=true&theme=tokyonight" alt="Stats GitHub"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetsimX81B&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" alt="Langages les plus utilisés"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetsimX81B&layout=compact&theme=tokyonight&langs_count=10" alt="Langages les plus utilisés"/>
 </p>
 
 ---
