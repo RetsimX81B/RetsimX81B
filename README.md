@@ -28,11 +28,32 @@
 ---
 
 ## 📊 Statistiques GitHub | GitHub Stats :
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RetsimX81B&show_icons=true&theme=tokyonight" alt="Stats GitHub"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetsimX81B&layout=compact&theme=tokyonight&langs_count=10" alt="Langages les plus utilisés"/>
+
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=RetsimX81B&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" 
+       alt="GitHub Stats" 
+       height="170"
+  />
+
+  
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RetsimX81B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&langs_count=8" 
+       alt="Top Languages" 
+       height="170"
+  />
 </p>
+
+
+<p align="center">
+  <img 
+       src="https://streak-stats.demolab.com?user=RetsimX81B&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" 
+       alt="GitHub Streak"
+       height="170"
+  />
+</p>
+
 
 ---
 
